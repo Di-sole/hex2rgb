@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0btwtdtn14oc32o2?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-forms-hex2rgb)
-#Конвертер цветов из HEX в RGB
+
+# Конвертер цветов из HEX в RGB
 
 [GitHub Pages](https://di-sole.github.io/ra-forms-hex2rgb/) 
 
