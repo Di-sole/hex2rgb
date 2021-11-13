@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+[![Build status](https://ci.appveyor.com/api/projects/status/0btwtdtn14oc32o2?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-forms-hex2rgb)
+#Конвертер цветов из HEX в RGB
+
+[GitHub Pages](https://di-sole.github.io/ra-forms-hex2rgb/) 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
